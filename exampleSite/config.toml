@@ -18,30 +18,30 @@ languageName = "Fr"
 weight = 2
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
-name = "Terms & Conditions"
+name = "Pogoji poslovanja"
 weight = 3
 [[menu.footer]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "Zasebnostni pogoji"
 weight = 4
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Domov"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Products"
+name = "Produkti"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
 weight = 4
 [params]
-author = "Themefisher"
+author = "Tilen Kavčič"
 contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
