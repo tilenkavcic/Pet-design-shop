@@ -6,7 +6,7 @@ banner:
   image: images/watch.png
   button:
     enable: true
-    label: Browse All Products
+    label: Poglej slike
     link: products
 features:
   enable: false
