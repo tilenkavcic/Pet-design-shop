@@ -11,6 +11,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: images
+  type: image_gallery
+  config: {}
+  label: images
 - type: text
   name: description
   label: description
@@ -21,13 +25,5 @@ fields:
   name: discount_price
   label: discount_price
 - type: list
-  name: colors
-  label: colors
-  hidden: true
-- type: list
   name: sizes
   label: sizes
-- name: images
-  type: image_gallery
-  config: {}
-  label: images
