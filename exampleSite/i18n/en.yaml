@@ -2,7 +2,7 @@
 - id: add_to_cart
   translation: Dodaj v košarico
 - id: send
-  translation: Send Now
+  translation: Pošlji
 - id: subscribe
   translation: Subscribe
 - id: read_more
