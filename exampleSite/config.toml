@@ -7,8 +7,8 @@ title = "Vex | hugo landing page template"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "sl"
-languageName = "SL"
+languageCode = "en-us"
+languageName = "en"
 weight = "1"
 [Languages.fr]
 contentDir = "content/french"
@@ -16,10 +16,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -41,17 +37,13 @@ URL = "products"
 name = "Products"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "€"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"
