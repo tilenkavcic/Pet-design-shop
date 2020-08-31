@@ -17,7 +17,9 @@
                 <i class="tf-ion-android-open"></i>
               </a>
             </div>
-            <img class="img-fluid" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
+            <a href="{{ .Permalink }}" class="gallery-popup">
+              <img class="img-fluid" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
+            </a>
           </div>
           {{ end }}
         </div>
