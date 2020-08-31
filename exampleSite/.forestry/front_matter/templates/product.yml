@@ -27,3 +27,7 @@ fields:
 - type: list
   name: sizes
   label: sizes
+- name: images
+  type: image_gallery
+  config: {}
+  label: images
