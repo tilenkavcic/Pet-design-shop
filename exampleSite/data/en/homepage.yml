@@ -11,7 +11,7 @@ banner:
 features:
   enable: false
   title: Our Core Features
-  image: images/watch-2.png
+  image: "/images/9c5becbac40aeae5b3324872f180a105.jpg"
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
@@ -48,14 +48,14 @@ about_product:
   enable: true
   title: Zakaj kupiti
   items:
-  - image: images/showcase/showcase-4.png
+  - image: "/images/9c5becbac40aeae5b3324872f180a105.jpg"
     title: Kvaliteta
     content: Zelo kvaliteten bla bla bla
     button:
       enable: false
       label: Check Features
       link: "#"
-  - image: images/showcase/showcase-3.png
+  - image: "/images/9c5becbac40aeae5b3324872f180a105.jpg"
     title: Leta izkušenj
     content: Imamo leta izukušenj bla bla blabla bla blabla bla blabla bla blabla
       bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
