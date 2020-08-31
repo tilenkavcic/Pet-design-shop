@@ -40,12 +40,10 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: "/images/4e96c575d7c2d874a910aff605f7c6c5.jpg"
+  title: Kako to naredimo
+  content: Naredimo z zelo dolgim procesom bla bla bla bla bla bla bla bla bla bla
+    bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 about_product:
   enable: true
   title: Why Choose Apple Watch
