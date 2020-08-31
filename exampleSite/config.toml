@@ -1,5 +1,5 @@
 baseurl = "http://vex-hugo-slike.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -7,9 +7,9 @@ title = "Vex | hugo landing page template"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
+languageCode = "sl"
+languageName = "SL"
+weight = "1"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
