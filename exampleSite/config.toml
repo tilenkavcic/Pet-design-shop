@@ -3,7 +3,7 @@ disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Pet Design"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Izdelava in spremembe: [Mad Salvaje](https://github.com/tilenkavcic/vex-hugo)\n\nTema - dizajn: [Themefisher](https://themefisher.com/), development: [Gethugothemes](https://gethugothemes.com/)"
