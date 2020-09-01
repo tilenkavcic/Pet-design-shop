@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "Vex | hugo landing page template"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Naredili [Mad Salvaje](https://github.com/tilenkavcic/vex-hugo)\n\nDizajn: [Themefisher](https://themefisher.com/), Development: [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Izdelava in spremembe: [Mad Salvaje](https://github.com/tilenkavcic/vex-hugo)\n\nDizajn: [Themefisher](https://themefisher.com/), Development: [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "en"
 weight = "1"
