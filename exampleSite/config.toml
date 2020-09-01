@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "Vex | hugo landing page template"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Naredili [Mad Salvaje](https://github.com/tilenkavcic/vex-hugo)\n\nDizajn: [Themefisher](https://themefisher.com/), Development: [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "en"
 weight = "1"
@@ -17,29 +17,29 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 3
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
+URL = "contact"
+name = "Kontakt"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Kontakt"
-weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Kontakt"
+URL = "terms-conditions"
+name = "Pogoji poslovanja"
 weight = 3
+[[menu.footer]]
+URL = "privacy-policy"
+name = "Zasebnostni pogoji"
+weight = 4
+[[menu.main]]
+URL = "/"
+name = "Domov"
+weight = 1
 [[menu.main]]
 URL = "products"
 name = "Produkti"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Domov"
-weight = 1
+URL = "contact"
+name = "Kontakt"
+weight = 4
 [params]
 author = "Tilen Kavčič"
 contact_form_action = "#"
