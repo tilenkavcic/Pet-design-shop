@@ -41,7 +41,7 @@ URL = "contact"
 name = "Kontakt"
 weight = 4
 [params]
-author = "Tilen Kavčič"
+author = "Pet Design"
 contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
