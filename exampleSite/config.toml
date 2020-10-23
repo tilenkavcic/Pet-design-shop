@@ -29,10 +29,6 @@ URL = "privacy-policy"
 name = "Zasebnostni pogoji"
 weight = 4
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = "5"
-[[menu.main]]
 URL = "/"
 name = "Domov"
 weight = 1
@@ -44,6 +40,10 @@ weight = 2
 URL = "contact"
 name = "Kontakt"
 weight = 4
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = "5"
 [params]
 author = "Pet Design"
 contact_form_action = "#"
