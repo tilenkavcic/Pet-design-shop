@@ -29,6 +29,10 @@ URL = "privacy-policy"
 name = "Zasebnostni pogoji"
 weight = 4
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = "5"
+[[menu.main]]
 URL = "/"
 name = "Domov"
 weight = 1
