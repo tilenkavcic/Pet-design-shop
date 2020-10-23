@@ -45,7 +45,7 @@ author = "Pet Design"
 contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
-logo = "/images/frame-5.svg"
+logo = "/images/frame-3.svg"
 logo_width = "100px"
 snipcart_api = "NmEwMmU2YjYtZjgxYy00ZTM0LThjNTMtZjgzYTIxNTUzM2ExNjM3MzQ1ODgxMzk1ODkwMTc1"
 [[params.plugins.css]]
