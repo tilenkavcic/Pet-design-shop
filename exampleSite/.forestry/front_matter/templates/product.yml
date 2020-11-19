@@ -32,4 +32,4 @@ fields:
   default: []
   label: Kategorija
   description: kategorija izdelka
-  hidden: true
+  hidden: false
