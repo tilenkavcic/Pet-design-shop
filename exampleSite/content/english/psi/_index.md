@@ -1,13 +1,7 @@
-+++
-date = ""
-description = ""
-discount_price = ""
-image = ""
-images = []
-kategorija_izdelka = "Razno"
-macka_ali_pes = "Mačka"
-price = ""
-sizes = []
-title = "Vsi naši pasji izdelki"
+---
+title: Vsi naši izdelki za pse
+description: this is a meta description
+kategorija_izdelka: Razno
+macka_ali_pes: Pes
 
-+++
+---
