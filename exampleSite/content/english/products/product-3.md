@@ -16,4 +16,4 @@ sizes:
 image: "/images/framed-photo-cover-new.jpg"
 
 ---
-Ta slika psa je bila izdelana ročno, zanj je bilo porabljen o... vas  asd asd anksdaskdjasdla kjsd askjdas ksjd haqsp soaSJ Alks JASlj
+Ta slika psa je bila izdelana ročno, zanj je bilo porabljen o... vas  asd asd anksdaskdjasdla kjsd askjdas ksjd haqsp soaSJ Alks JASlja
