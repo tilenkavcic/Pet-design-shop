@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: exampleSite/content/english/psi
   label: psi
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - product
