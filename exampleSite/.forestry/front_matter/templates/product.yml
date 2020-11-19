@@ -57,5 +57,6 @@ fields:
       path: 
   label: mačka ali pes
 pages:
+- exampleSite/content/english/products/cat/mack.md
 - exampleSite/content/english/psi/pes.md
 - exampleSite/content/english/psi/vsi-nasi-izdelki.md
