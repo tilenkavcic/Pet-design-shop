@@ -2,7 +2,6 @@
 date = ""
 description = ""
 discount_price = ""
-draft = true
 image = ""
 images = []
 kategorija_izdelka = "Razno"
