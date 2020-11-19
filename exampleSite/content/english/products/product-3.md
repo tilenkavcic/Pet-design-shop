@@ -14,6 +14,8 @@ sizes:
 - srednja
 - velika
 image: "/images/framed-photo-cover-new.jpg"
+kategorija_izdelka: Razno
+macka_ali_pes: Mačka
 
 ---
 Ta slika psa je bila izdelana ročno, zanj je bilo porabljen o... vas  asd asd anksdaskdjasdla kjsd askjdas ksjd haqsp soaSJ Alks JASlja
