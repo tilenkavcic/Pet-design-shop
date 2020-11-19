@@ -31,7 +31,7 @@ sections:
 - type: directory
   path: exampleSite/content/english/products
   label: Product (en)
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - product
