@@ -27,12 +27,6 @@ fields:
 - type: list
   name: sizes
   label: sizes
-- name: kategorija
-  type: tag_list
-  default: []
-  label: Kategorija
-  description: kategorija izdelka
-  hidden: false
 - name: kategorija_izdelka
   type: select
   default: Razno
