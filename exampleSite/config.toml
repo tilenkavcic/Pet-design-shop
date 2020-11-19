@@ -42,7 +42,7 @@ name = "Kontakt"
 weight = 4
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "O nas"
 weight = "5"
 [params]
 author = "Pet Design"
