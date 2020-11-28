@@ -4,7 +4,6 @@ description = "Umetniška tablica za ljubiteljev Biglov."
 discount_price = ""
 image = ""
 images = ["/images/bigl.jpg"]
-kategorija_izdelka = "Razno"
 macka_ali_pes = "Pes"
 price = "15 EUR"
 sizes = []

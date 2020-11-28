@@ -7,7 +7,6 @@
         <h1 class="font-weight-bold">{{.Title}}</h1>
       </div>
       {{ range (where .Site.RegularPages "Section" "in" (slice "psi" "macke")) }}
-        <!-- {{ if eq .Params.kategorija_izdelka "Razno" }} -->
         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
           <div class="block">
             <div class="gallery-overlay">
@@ -24,7 +23,6 @@
             </p>
           </div>
         </div>
-        <!-- {{ end }} -->
       {{ end }}
     </div>
   </div>
