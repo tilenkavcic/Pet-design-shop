@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2020-11-09T23:00:00Z
 description = ""
 discount_price = ""
 image = "/images/siamska.jpg"
