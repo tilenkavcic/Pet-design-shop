@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
 - name: images
   type: image_gallery
   config: {}
@@ -24,24 +21,6 @@ fields:
 - type: text
   name: discount_price
   label: discount_price
-- type: list
-  name: sizes
-  label: sizes
-- name: kategorija_izdelka
-  type: select
-  default: Razno
-  config:
-    required: true
-    options:
-    - Razno
-    - Okrasna tablica
-    - Obešalnik za sprehode
-    source:
-      type: simple
-      section: product-en
-      file: 
-      path: 
-  label: Kategorija izdelka
 - name: macka_ali_pes
   type: select
   default: Mačka
