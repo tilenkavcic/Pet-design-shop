@@ -5,8 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/content/english/macke
+  label: Macke
+  create: documents
+  match: "**/*"
+  templates:
+  - product
+- type: directory
   path: exampleSite/content/english/psi
-  label: psi
+  label: Psi
   create: documents
   match: "**/*"
   templates:
