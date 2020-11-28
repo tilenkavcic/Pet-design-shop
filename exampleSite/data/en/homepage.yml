@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Najlepše slike
   content: Ročno izdelane slike za v vaš dom
-  image: "/images/116800324_1487144918139800_7093076870032856180_n.jpg"
+  image: "/images/zlati-prinacalec.jpg"
   button:
     enable: true
     label: Poglej slike
