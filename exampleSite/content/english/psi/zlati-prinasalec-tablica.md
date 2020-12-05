@@ -1,7 +1,7 @@
 +++
 date = 2020-12-04T23:00:00Z
 description = "Umetniška tablica za ljubiteljev zlatih prinašalcev."
-discount_price = "10 EUR"
+discount_price = ""
 images = ["/images/zlati-prinacalec.jpg"]
 macka_ali_pes = "Pes"
 price = "15 EUR"
