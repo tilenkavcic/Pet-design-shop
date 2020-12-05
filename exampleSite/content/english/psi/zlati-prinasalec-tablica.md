@@ -4,7 +4,7 @@ description = "Umetniška tablica za ljubiteljev zlatih prinašalcev."
 discount_price = ""
 images = ["/images/zlati-prinacalec.jpg"]
 macka_ali_pes = "Pes"
-price = "15 EUR"
+price = "15"
 title = "Zlati prinašalec (tablica)"
 
 +++
