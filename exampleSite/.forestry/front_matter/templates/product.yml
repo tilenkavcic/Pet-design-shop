@@ -37,6 +37,7 @@ fields:
   label: mačka ali pes
 pages:
 - exampleSite/content/english/macke/crno-bel-muc-tablica.md
+- exampleSite/content/english/macke/siamska-tablica.md
 - exampleSite/content/english/macke/tigrasta-macka.md
 - exampleSite/content/english/psi/bigl-tablica.md
 - exampleSite/content/english/psi/zlati-prinasalec-tablica.md
