@@ -5,7 +5,7 @@ discount_price = ""
 image = ""
 images = ["/images/bigl.jpg"]
 macka_ali_pes = "Pes"
-price = "15 EUR"
+price = "15"
 sizes = []
 title = "Bigl (tablica)"
 
